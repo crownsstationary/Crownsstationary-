@@ -9,3 +9,11 @@ Before printing it on real books, replace that destination with your actual publ
 
 PUBLISH:
 Upload index.html, styles.css, script.js and the assets folder together to your web host.
+
+UPDATED CATALOGUE
+- Removed the Diego Beats Records producer section.
+- Added kids' books, school textbooks, novels, black books and stationery tools.
+- Added 48-page, 32-page and 96-page exercise-book options.
+- Removed 80-page labels from the exercise-book displays.
+- Existing QR-code image path and QR-code markup were intentionally left unchanged.
+- Upload index.html, styles.css, script.js and the existing assets folder together.
